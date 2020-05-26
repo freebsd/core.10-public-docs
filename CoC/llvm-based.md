@@ -1,10 +1,7 @@
-# LLVM Community Code of Conduct
-
-**Note**
-    This document is currently a **DRAFT** document while it is being discussed by the community.
+# FreeBSD Community Code of Conduct
 
 The
-LLVM
+FreeBSD
 community has always worked to be a welcoming and respectful community, and we
 want to ensure that doesn't change as we grow and evolve. To that end, we have a
 few ground rules that we ask people to adhere to:
@@ -21,11 +18,11 @@ the spirit in which it's intended - a guide to make it easier to communicate and
 participate in the community.
 
 This code of conduct applies to all spaces managed by
-the LLVM project or The LLVM Foundation.
+the FreeBSD project.
 This includes
-IRC channels,
+online chat,
 mailing lists, bug trackers,
-LLVM
+FreeBSD
 events such as the developer meetings and socials, and any other forums created
 by the project that the community uses for communication. It applies to all of
 your communication and conduct in these spaces, including emails, chats, things
@@ -36,9 +33,9 @@ amounts to an egregious violation of this code.
 
 If you believe someone is violating the code of conduct, we ask that you report
 it by emailing
-conduct@llvm.org.
+conduct@freebsd.org.
 For more details please see our
-[Reporting Guide](https://llvm.org/docs/ReportingGuide.html).
+[Reporting Guide](https://www.freebsd.org/ReportingGuide.html).
 
 *   **Be friendly and patient.**
 *   **Be welcoming.**
@@ -59,11 +56,11 @@ behavior and poor manners. We might all experience some frustration now and
 then, but we cannot allow that frustration to turn into a personal attack. It's
 important to remember that a community where people feel uncomfortable or
 threatened is not a productive one. Members of the
-LLVM
+FreeBSD
 community should be respectful when dealing with other members as well as with
 people outside the
-LLVM
- community.
+FreeBSD
+community.
 *   **Be careful in the words that you choose and be kind to others.**
 Do not insult or put down other participants. Harassment and other exclusionary
 behavior aren't acceptable. This includes, but is not limited to:
@@ -77,10 +74,10 @@ behavior aren't acceptable. This includes, but is not limited to:
 *   In general, if someone asks you to stop, then stop. Persisting in such behavior after being asked to stop is considered harassment.
 *   **When we disagree, try to understand why.**
 Disagreements, both social and technical, happen all the time and
-LLVM
+FreeBSD
 is no exception. It is important that we resolve disagreements and differing
 views constructively. Remember that we're different. The strength of
-LLVM
+FreeBSD
 comes from its varied community, people from a wide range of
 backgrounds. Different people have different perspectives on issues. Being
 unable to understand why someone holds a viewpoint doesn't mean that they're
@@ -91,8 +88,10 @@ mistakes.
 ## Questions?
 
 If you have questions, please feel free to contact
-the LLVM Foundation Code of Conduct Advisory Committee by emailing conduct@llvm.org.
+the FreeBSD Code of Conduct Committee by emailing conduct@freebsd.org or the
+FreeBSD Core team core@FreeBSD.org.
 
-(This text is based on the [Django Project](https://www.djangoproject.com/conduct/)
+(This text is based on the LLVM Project's [draft CoC](https://llvm.org/docs/CodeOfConduct.html),
+which in turn is based on the [Django Project](https://www.djangoproject.com/conduct/)
 Code of Conduct, which is in turn based on wording from the
 [Speak Up! project](http://speakup.io/coc.html).)
