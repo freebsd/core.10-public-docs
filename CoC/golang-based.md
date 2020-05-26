@@ -1,8 +1,8 @@
-# **Go Community Code of Conduct**
+# **FreeBSD Community Code of Conduct**
 ## About
 
 Online communities include people from many different backgrounds. The
-Go
+FreeBSD
 contributors are committed to providing a friendly, safe and welcoming
 environment for all, regardless of gender identity and expression, sexual
 orientation, disabilities, neurodiversity, physical appearance, body size,
@@ -12,7 +12,7 @@ characteristics.
 The first goal of the Code of Conduct is to specify a baseline standard of
 behavior so that people with different social values and communication styles
 can talk about
-Go
+FreeBSD
 effectively, productively, and respectfully.
 
 The second goal is to provide a mechanism for resolving conflicts in the
@@ -20,18 +20,17 @@ community when they arise.
 
 The third goal of the Code of Conduct is to make our community welcoming to
 people from different backgrounds. Diversity is critical to the project; for
-Go
+FreeBSD
 to be successful, it needs contributors and users from all backgrounds.
-(See [Go, Open Source, Community](https://blog.golang.org/open-source).)
 
 We believe that healthy debate and disagreement are essential to a healthy
 project and community. However, it is never ok to be disrespectful. We value
 diverse opinions, but we value respectful behavior more.
 
-## Gopher values
+## FreeBSD values
 
 These are the values to which people in the
-Go community ("Gophers")
+FreeBSD community
 should aspire.
 
 *   Be friendly and welcoming
@@ -118,7 +117,7 @@ representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
 This Code of Conduct also applies outside the project spaces when the
-Project Stewards have
+Core Team has
 a reasonable belief that an individual's behavior may have a negative impact
 on the project or its community.
 
@@ -136,17 +135,17 @@ behavior is threatening or harassing, report it. We are dedicated to providing
 an environment where participants feel welcome and safe.
 
 Reports should be directed to
-Carmen Andoh and Van Riper, the Go Project Stewards, at conduct@golang.org.
+the Conduct Board at [conduct@freebsd.org](mailto:conduct@freebsd.org).
 It is the
-Project Stewards'
+Conduct Board's
 duty to receive and address reported violations of the code of conduct.
-They will then work with
-a committee consisting of representatives from the Open Source Programs Office
-and the Google Open Source Strategy team.
+To sort out conduct violations from people just needing mediation.
+And to clearly recommend the next step with the complaint.
 If for any reason you are uncomfortable reaching out to
-the Project Stewards,
+the Conduct Board,
 please email
-the Google Open Source Programs Office at opensource@google.com.
+the FreeBSD core team ([core@FreeBSD.org](mailto:core@FreeBSD.org))
+or any of its members individually.
 
 We will investigate every complaint, but you may not receive a direct
 response. We will use our discretion in determining when and how to follow up on
@@ -160,8 +159,9 @@ notice.
 
 ### **Attribution**
 
-This Code of Conduct is adapted from the Contributor Covenant, version 1.4,
-available at
+This Code of Conduct is adapted from [the golang Code of Conduct](https://golang.org/conduct)
+which was in turn
+adapted from the Contributor Covenant, version 1.4, available at
 [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
 
 ## Summary
@@ -169,4 +169,5 @@ available at
 *   Be thoughtful in how you communicate.
 *   Don't be destructive or inflammatory.
 *   If you encounter an issue, please mail
-[conduct@golang.org](mailto:conduct@golang.org).
+[conduct@freebsd.org](mailto:conduct@freebsd.org)
+    or [core@freebsd.org](mailto:core@freebsd.org).
